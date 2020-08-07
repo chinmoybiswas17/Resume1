@@ -1,0 +1,93 @@
+body{font-family:cursive}
+div#Great {
+    /* float: right; */
+}
+
+.zz {
+    float: left;
+    margin: 17px;
+    color: blue;
+    margin-top: 89px;
+    font-size: 30px;
+}
+
+.a {
+    float: left;
+    width: 100%;
+    padding-left: 17px;
+}
+
+.z {}
+
+.z {
+    float: left;
+    width: 90%;
+    /* padding-left: 17px; */
+    margin: 17px;
+}
+.az {
+    float: left;
+    margin: 17px;
+}
+
+body {
+    /* background-color: #CFD8DC; */
+    /* margin: 17px; */
+    border: 100px solid #90A4AE;
+}
+
+.a {}
+
+.all {
+    background-color: #ffffff59;
+    height: 1300px;
+    border: 17px solid black;
+}
+
+h2 {
+    color: blue;
+    margin-bottom: 17px;
+}
+
+p {
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+h4 {}
+
+h4 {
+    /* margin-bottom: 10px; */
+}
+
+p {}
+
+td {}
+
+.a {}
+h1 {
+    text-align: center;
+    color: blue;
+    /* font-size: 30px; */
+}
+
+.zz {}
+
+p {}
+
+p {}
+
+.zz p {
+    font-size: 20px;
+}
+img {
+    width: 200px;
+    float: right;
+    /* margin-left: 17px; */
+    /* margin-top: 17px; */
+    margin-right: 147px;
+border-radius: 50%;}
+.skills {
+    float: left;
+    width: 100%;
+margin: 17px;}
